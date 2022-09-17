@@ -1,0 +1,20 @@
+/*Idenficador universal */
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/*Clases*/
+.colorJC {
+    color: rgb(255, 81, 0);
+}
+
+/*Etiquetas */
+input {
+    background-color: #E500F3;
+}
+
+/*Id*/
+#nombre {
+    font-size: 30px;
+}
+
